@@ -1,29 +1,52 @@
 <section class="author-box">
-  <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}" class="author-img">
+  <img src="{{site.baseurl}}/assets/img/authors/{% if author.pic %}{{author.pic}}{% endif %}" alt="{{author.name}}" class="author-img">
   <div class="author-desc">
-    <h2>{{site.author}}</h2>
-    <p>{{site.about-author}}</p>
+    <h2>{{author.name}}</h2>
+    <p>{{author.bio}}</p>
+    <i>"{{author.quote}}"</i>
+    <p> </p>
     <ul>
-      {% if site.email %}
-        <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+      {% if author.email %}
+        <li class="email"><a href="mailto:{{author.email}}"><i class="fa fa-envelope-o"></i></a></li>
       {% else %}
-        <li class="email"><a href="mailto:example.adam@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+        <li class="email"><a href="mailto:example@example.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
       {% endif %}
-      {% if site.phone %}
-        <li class="phone"><a href="tel:{{site.phone}}"><i class="fa fa-phone"></i></a></li>
+
+      {% if author.facebook %}
+        <li class="facebook"><a href="https://www.facebook.com/{{author.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
       {% else %}
-        <li class="phone"><a href="tel:044 825 5523"><i class="fa fa-phone" aria-hidden="true"></i></a></li>
+        <!-- <li class="facebook"><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
       {% endif %}
-      {% if site.website %}
-        <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i></a></li>
+
+      {% if author.twitter %}
+        <li class="twitter"><a href="https://twitter.com/{{author.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
       {% else %}
-        <li class="website"><a href="https://artemsheludko.github.io" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a></li>
+        <!-- <li class="twitter"><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
       {% endif %}
-      {% if site.twitter %}
-        <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+
+      {% if author.github %}
+      <li class="github"><a href="https://www.github.com/{{author.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
       {% else %}
-        <li class="twitter"><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li class="github"><a href="https://www.github.com" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
       {% endif %}
+
+      {% if author.linkedin %}
+        <li class="linkedin"><a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+      {% else %}
+        <!-- <li class="linkedin"><a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+      {% endif %}
+
+      {% if author.website %}
+      <li class="webauthor"><a href="{{author.website}}" target="_blank"><i class="fa fa-globe"></i></a></li>
+      {% else %}
+        <li class="webauthor"><a href="{{site.baseurl}}" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a></li>
+      {% endif %}
+
+      <!-- {% if author.phone %}
+        <li class="phone"><a href="tel:{{author.phone}}"><i class="fa fa-phone"></i></a></li>
+      {% else %}
+        <li class="phone"><a href="123-456-7890"><i class="fa fa-phone" aria-hidden="true"></i></a></li>
+      {% endif %} -->
     </ul>
   </div>
 </section>

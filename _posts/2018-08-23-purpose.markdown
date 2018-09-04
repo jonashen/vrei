@@ -1,0 +1,61 @@
+---
+layout: post
+title: How do you design for humanity?
+date: 2018-08-23
+description: # (optional)
+img: refugee-camp.jpg # (optional)
+tags: [Intro, Purpose, Humanity]
+author: jonathon # (optional)
+---
+> A design journal is a visual representation of your journey — failures, successes, and successive failures.
+
+
+<br>
+
+**1. "If you haven't failed, you aren't trying hard enough."**
+
+These words permeated the cramped classroom that hosted our initial meeting as a cohort, and marked the first of several lessons used towards desensitizing the cookie-cutter expectations we’ve grown complacent with as students. We must realize that failure should be the norm, not the exception.
+
+<br>
+
+**2. Success is defined by actions, not letters.**
+
+The term **_cohort_**, for instance, is a deliberate substitution that alleviates us from the baggage normally imposed upon a **_class_**: superficial pursuance of grades, mindless rote, and apathetic participation. You cannot pursue a pre-defined path to success when there is none. Instead, we should measure our progress by the actions we take and the impact we make along the journey.
+
+<br>
+
+**3. Conversation is a two-way street.**
+
+The quickest way to build rapport with people is to listen to their stories. Only they can express the most authentic, subjective, and idiosyncratic versions of their experiences. More importantly, we must be quick to recognize which level of listening we’ve grown accustomed to and adjust ourselves accordingly.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/purpose/listening_levels.jpg" style="width: auto; max-width: 350px;">
+</p>
+
+<br>
+
+**4. Build an empathy map.**
+
+Alternatively, _“you can’t understand someone until you’ve walked a mile in their shoes”_. This quote is as cliché as it is true. We need to be wary of our ignorance stemming from privilege and break them down systemically by building narratives based on the personal experiences of those who have experienced it first-hand. Moreover, we must be quick and receptive to admitting wrongful assumptions upon learning new information that contradicts our own beliefs. Anything less than a two-way dialogue encroaches on condescension.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/purpose/empathy_map.jpg" style="width: auto; max-width: 250px;">
+</p>
+
+<br>
+
+**5. Focus on end products.**
+
+As a cohort of innovation, we must not forget that our impact is first and foremost measured by the projects we build and complete. Identify what measures of success you want to adhere to, and stick to them tenaciously. They should be **SMART** — _**S**pecific, **M**easurable, **A**chievable, **R**elevant, and **T**ime-bound_.
+
+<br>
+
+**6. While(true):  iterate();**
+
+Build your products assuming that they will eventually fail, while recognizing that expectation of failure is not equivalent to succumbing to failure. _Rome wasn’t built in a day, **but they were laying bricks every hour**_. Many people will neglect the second part to explain away what little progress they’ve accomplished as meaningful; you are not one of them. Do today what can be done tomorrow. Improve upon your products aggressively and continuously.
+
+<br>
+
+**7. Document your journey.**
+
+This journal is about documenting the struggles, the failures, and being adaptable in the face of unexpected obstacles. It is about breaking down barriers and building up relationships. The time for action was yesterday, but it is not too late to start today.

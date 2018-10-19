@@ -1,0 +1,359 @@
+---
+layout: post
+title: Notes
+date: 2018-10-18
+description: # (optional)
+img: tents.jpg # (optional)
+tags: [Notes]
+author: jonathon # (optional)
+---
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/dump/1.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/2.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/3.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/4.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/5.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/6.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/7.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/8.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/9.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/10.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/11.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/12.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/13.jpeg" style="width: auto; max-width: 350px;">
+<img src="{{site.baseurl}}/assets/img/dump/14.jpeg" style="width: auto; max-width: 350px;">
+</p>
+
+VREI
+Week 1
+
+Each team will have a “Design Journal” in which they document their
+validation and decision process at every step, focusing on their processes. This Journal will be submitted with reports, presentations, prototypes, etc. as outlined in the assignments descriptions below
+
+Wrote story map.
+
+Week 2
+9/6/18
+
+No playgrounds
+Food allergies
+Containers and tents
+H20 availability
+Food lines (stressful)
+Access to medicine
+Back home, have degrees
+Host countries, they are removed to just being translators (credentials ignored)
+Asad’s “KOOSH” -> 10,000 Syrian children
+Alcohol and drugs in the camps (not huge problem) (18-29)
+-> Weed, Opium from Afghanistan (Greek-grown drug rings)
+Distrust of organization (doctors, etc.)
+Misinformation
+No privacy for women
+Boys sexual exploitation
+Rivalries between ethnic groups inside camp
+Sectarianism
+Potential facades (not sure if they being truthful or putting up a front)
+Not expressive, fearful — cultural differences Germans: expectations of refugees (not on time)
+
+1) 5 Levels of listening
+￼
+1. Ignoring
+2. Pretend — Patronizing
+3. Attentive — hearing both sides
+4. Selective — Only hearing what you want to hear
+5. Feeling what other people are feeling
+
+
+2) Focusing on end products
+Design sprint — planning out things
+
+Identify what the measures of success will be
+Ex. repeatability, user acceptance, longevity, affordability, etc.
+If you were to build a product, what do you want it to be?
+
+SMART acronym —  specific, measurability, achievable/actionable, relevant, time-bound
+
+Our team ideas
+
+Voted on metrics of success
+￼
+
+Come up with potential solution/products (what do these people need)
+* Sustainability
+* Affordability
+* Desirability
+
+Generate as many ideas as possible
+
+Need good metrics (use your research to define them, it’s your North Star)
+
+Ideation
+
+Uploading photos to Google Drive, document every day
+
+Recognizing gaps in our knowledge, we need to make sure we’re right/wrong
+
+Final points:
+Metric
+Opening yourself to as many ideas as possible
+
+We pivoted idea from diva cups/disks to hydrophobic wash cloth based on cultural differences.
+
+
+Week 3
+
+Designer for Refugee came in to talk
+
+Product Design (career)
+
+There’s not one way to make it
+
+Own your own tangled path of life
+
+Arts Center (in Pasadena)
+art + design+photography college
+Transportation design
+
+(One) Design Thinking Process Model
+Discover -> Define -> Develop -> Deliver
+The double diamond (after how it looks)
+Think more generally, then drill it down
+Divergent phase, then convergent phase
+
+
+Prompt = finding the right problem
+Problem = setting the right criteria
+Solution = finalized solution
+
+Night loo (prevent rape at communal bathrooms)
+
+Prompt = People affected by hardship
+Research (what is problem you want to solve for)
+Displaced person = sexual-based violence against women
+
+Putting myself in the shoes of women, what are the problems being faced
+
+Sources: UNHCR reports (related to women and violence), International Rescue Committee, Amnesty International
+
+What number do you need to see to believe sexual assault is going on? (don’t need hard qualitative data as proof)
+
+It’s the numbers that matter -> comes to -> It’s the stories that matter
+
+User/Market Research
+* Current solutions
+    * Adult diapers (it was so degrading)
+* Existing products
+    * See what’s in the market
+
+What Ifs
+Ideation phase (Strategies to draw insights from)
+Blue sky ideation phase (sketching out as many ideas as possible for these situations)
+Quantity is key (most ideas get them out, most will be crap)
+Question everything (reframe the problem)
+Don’t hold tight to something was a great idea -> won’t iterate as much, won’t evolve
+(Look to nature for inspiration — pricks from , squid from octopus)
+(100 ideas are good = hard to choose)
+
+Cultural sensitivity
+Find secondary sources (e.g. from people who work with them)
+The critique: don’t take it personally, take it and run with it.
+
+bringing 20 ideas easier than 3 good ideas (worry too much if it’s a good idea)
+
+Testing materials (see what is water absorbent, is it sticky on fingers)
+(from 20 types of materials to 8) (bulgar wheat)
+
+Speed, odor, ease of cleanup (3 criteria)
+
+
+User journey with the container (you have to carry it, clean it, etc.)
+(8 panels: 4 at night, 4 during day)
+
+What did I learn?
+Embrace what makes you unique
+listen to your heart
+listen to critiques (to make your project better)
+when you’re stuck, make something.
+take breaks.
+fail fast and fail often.
+trust the process.
+
+
+
+9/27/2018
+1. Design Thinking
+2. Problems
+3. Ideation
+4. Committees
+
+Design Thinking Process Model
+* Iterate quickly, arrive at a set of possible set of solutions. Failure is a purposeful option
+* It isn’t solving an equation, where there’s a definitive answer for x
+* Convincing yourself, making a hypothesis where you say “i think this is the correct path based on my research”
+* Thickness of triangle == increased level of ambiguity
+* Hourglass design process, constrain once when defining your problem, and again when you prototype/test your product
+
+It’s hard for me because everything is new, I have to rethink my entire process. I like to build first, see the demand later.
+However, it doesn’t work like that all the time.
+“It drives engineers crazy”, because we are flipping the process
+Be willing to take risks in the design process, not so attached to it (attach fixation)
+Design Council UK
+Design Thinking is not a Straight Line (Seems more circular).
+
+How do you separate solutions from problems (You don’t you jump between both)
+Problem definition and solution
+Need a consensus on how to define the problem (needs short and simplistic)
+Don’t fall in love with your idea (confirmation bias)
+
+Brad sees every day in design world is ego driven, it’s not about right answer, it’s about my design is the best
+Nobody wants to collaborate b/c they believe their idea is the right one
+
+Methods of ideation (don’t reinvent the wheel)
+You can steal ideas in a design studio
+Design is always relative to other design
+Do something new or do something better
+
+SWOT analysis of existing product, how can we improve upon it
+
+Can be ego driven, but use your collaborators as foil
+
+Volunteer lawyers having issues due to political/structural issues, policies kept changing, there was no communication
+Rejected applications with no idea why (our policies changed two weeks ago)
+
+
+Ideation Techniques
+The purpose of ideation techniques is to develop techniques to broaden your abilities to generate good ideas.
+This is something that is focused little in CS and Engineers as a whole.
+It is always build first, and break things along the way. (As FB says, move fast and break things).
+
+Hard to build momentum, comfortable to generate shit ideas. Just to get the engine running.
+Then the good ideas will start coming.
+The perfect idea doesn’t come quickly.
+
+If you don’t know too much about a topic, it’s a more effective process (fresh new ideas)
+Design consultants — no preconception about a company, learn a lot, bring ideas that are fresh (company does same thing)
+
+Diagramming / Sketching
+
+brainstorming = Post-it notes, generate ideas
+Worst Possible Idea
+
+Mood boards, you’re literally just finding imagery that interests you, and then pin them all up to stimulate your mind
+Mindmapping — popular
+
+
+9/28 Ideation Ideas
+Waterproofing and sealant using sprays (tent material)
+Prevent rain damage and weather proof
+Reuse life vests as
+
+How to make throwing away trash more convenient than not throwing it away
+Trash chutes that carry the trash away (tube, conveyer belt, air tube)
+
+Create WALL-E boxes of trash as building material
+Build mattresses from life vests
+World market (sell the trash by reusing them as products)
+Change the perception of trash from useless to something
+Alarm in the tents (chance of false alarms)
+Break windows of containers
+
+Main Q’s
+* Do research on existing products in the market
+* What products that address our problems already exist
+* Apply beyond Europe
+
+
+10/4/18
+$6000 prototyping
+$1000 refugee maintenance cost
+Don’t write actually monetary amount (implicated)
+
+ANNOUNCEMENT REGARDING MIN FAMILY CHALLENGE
+We will have a total of 30K from the Min Family Challenge. This means each team will receive 6K (2K for Fall semester and 4K for Spring semester). We know this might not be enough for prototyping and testing but we hope with our combined efforts for fundraising, we will top off this initial seed funding.
+
+We all talked about what specific issues we want to solve
+E.g. economic cards,
+
+SWOT Analysis
+Score your criteria with weight values (aerodynamic vs. weight)
+
+Skype talk with David’s colleague Omar
+* We forget about the humanity, too focused on the politics
+* How did cities get out of conflict after wars, the rebuilding successes and failures
+* Forget about human face struggle of people going through crises
+* Don’t hear about people, what are their coping mechanisms
+* Refugee camps are transition point, they came from somewhere (not nowhere)
+    * Highly rich, educated, just the case that they faced crisis
+    * And everyone looks the same
+* How to keep people at centre of reconstruction of communities / cities
+    * Local community engagement
+    * Brainstorming sessions with people affected by the situation
+    * Keep people who are affected at the forefront of negotiations
+* Architecture for social justice and social meaning
+    * Not about materials, but about the purpose for the people
+* Move away from monuments, more towards what people remember before the war
+* Mapping the memories of people (what matters in people)
+    * Rebuild everything what people remember about the community
+* How to instill a feeling of home in refugee camps
+    * A book: Destruction of home (Domicide)
+    * Add paintings, build fountains reminiscent of home in Damascus, etc.
+    * Home decorations
+* Mail of the Ones in Exile
+    * No DHL in Syria, send money to someone in Germany, send that money in Syria, then they buy it and send it to families
+
+
+10/5/18
+Men’s shoes are in shortage
+
+
+10/11/18
+How to evaluate ideas?
+By next week: 3 products, benchmark them to existing products in the market
+
+How to select ideas?
+* Most interesting to you (high engagement but not most valuable)
+* Ask experts (can be stakeholders)
+* Most valuable to end-users/customers (ppl don’t know what they want but refugees might know; interviews, crowdsourcing, co-creation)
+    * NGOs are customers, refugees are end-users
+* Voting (internal and external)
+
+Idea Selection Criteria
+* Does it fit people’s needs
+* Does it add value / is it different enough?
+* Is technology available?
+* Does it meet requirements in our problem statement?
+
+Research Cube (Durability, Usability, Cost)
+* Three axes, mapping ideas from easy (0) to hard (max) to achieve
+
+User Research
+* Who is the user? What is their age, gender, housing situation, resources
+* Why do they need this product
+* How to discover it
+* How will they use it
+* How many potential customers are there
+
+User Journey, User Personas
+* Demonstrate the way users are/could interact with the product
+* A persona is based on user research with goals, behaviours, and patterns
+
+Benchmarking
+* SWOT existing solutions
+    * What works/doesn’t
+* SWOT your solution
+    * Challenges/why is your solution better
+
+Weighted Criteria Matrix
+* Evaluate potential options against a list of weighted factors
+
+
+Frictionless distribution — what an app is launched
+
+Survey users to see what the demand is (get feedback)
+Is this helpful? Will people want to use this?
+
+Roadblocks (iterate on wireframes i.e. each single app look)
+
+One of the pain points would be for asylum status
+Can you actually get up-to-date personal asylum status?

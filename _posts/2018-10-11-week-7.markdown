@@ -3,7 +3,7 @@ layout: post
 title:  Week 7
 date:   2018-10-11
 description: # (optional)
-img: tents.jpg # (optional)
+img: post-1.jpg # (optional)
 tags: [Weekly]
 author: jonathon # (optional)
 ---

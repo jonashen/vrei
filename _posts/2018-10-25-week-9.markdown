@@ -1,0 +1,71 @@
+---
+layout: post
+title:  Week 9
+date:   2018-10-25
+description: # (optional)
+img: initial-mockups.png
+tags: [Weekly, Safar, Journey, Prototyping, Mockup]
+author: jonathon
+---
+<p align="center"><b><font size="6">Safar (سفر): A Prototyping Journey</font></b></p>
+
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/safar/initial/welcome.png" style="width: auto; max-width: 300px; max-height: 600px;">
+<figcaption align="center"><i>Figure 1: Welcome screen.</i></figcaption>
+</figure>
+
+<br>
+
+**Downselecting A Prototyping Tool**
+
+After a cursory analysis and beta testing of many mobile prototyping products out there ([Figma][figma], [Invision][invision], [Fluid][fluid]), I decided to use [Marvel][marvel] for its simplicity and ease-of-use. More specifically, in tandem with their mobile app I could have my mockup in [Sketch][sketch] uploaded onto my phone within seconds. Marvel also adds the option to share [our mockup][mockup] with anyone in the form of a unique URL, as long as they have an internet connection.
+
+<br>
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/safar/initial/touch-login.png" style="width: auto; max-width: 300px; max-height: 600px;">
+<img src="{{site.baseurl}}/assets/img/safar/initial/pin-login.png" style="width: auto; max-width: 300px; max-height: 600px;">
+<figcaption align="center"><i>Figures 2 and 3: Login screens.</i></figcaption>
+</figure>
+<br>
+
+**Continual User Feedback**
+
+The ability to provide an interactive experience with your mockup has other benefits as well: it plays perfectly into the need for “extensive user feedback”. Whereas most hardware products require time and extensive prototyping to construct an MVP, software mockups allows users to easily interact with and understand the feel of the entire app, as well as provide feedback on the spot. This continual feedback loop means our user testers are fully integrated in the development process, from inception to launch.
+
+<br>
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/safar/initial/journey.png" style="width: auto; max-width: 300px; max-height: 600px;">
+<figcaption align="center"><i>Figure 4: Journey screen.</i></figcaption>
+</figure>
+<br>
+
+**Immediate Prototyping**
+
+As a testament to this fact, I constructed in the span of 3 hours an initial wireframe for our app Safar (meaning “journey” in Arabic and Farsi) based on my understanding of our functionality and vision. Personally, it was immensely helpful to translate fragmented ideas in my head into a concrete format — I’m a firm believer in **_immediate prototyping_**. More importantly, however, prototyping can facilitate **_immediate feedback_**. Upon showing my teammates the mockup, for instance,  we discovered that none of us were on the same page for what the app entailed. Some of us thought we should focus more extensively on the present, i.e. within the camps, while others imagined mapping out the refugee’s journey from start to finish.
+
+<br>
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/safar/initial/damascus.png" style="width: auto; max-width: 250px; max-height: 600px;">
+<img src="{{site.baseurl}}/assets/img/safar/initial/moria-services.png" style="width: auto; max-width: 250px; max-height: 600px;">
+<img src="{{site.baseurl}}/assets/img/safar/initial/moria-products.png" style="width: auto; max-width: 250px; max-height: 600px;">
+<figcaption align="center"><i>Figures 5, 6a, and 6b: Location screens.</i></figcaption>
+</figure>
+<br>
+
+**Final Thoughts**
+
+In retrospect, my opinions on immediate prototyping are bolstered by this new discovery: not only does it help to clear up any misconceptions early on, it also strengthens our team’s cohesion and resolve. Having a physical prototype to point to during discussions, for instance, facilitates much more specific and design-oriented discussion, which are crucial to the final look and feel of the app.
+
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/safar/initial/welcome-guide.png" style="width: auto; max-width: 300px; max-height: 600px;">
+<figcaption align="center"><i>Figure 7: Welcome guide.</i></figcaption>
+</figure>
+<br>
+
+<!-- Links -->
+[marvel]: https://marvelapp.com/
+[sketch]: https://www.sketchapp.com/
+[mockup]: https://marvelapp.com/f5fa8j4
+[figma]: https://figma.com
+[invision]: https://invisionapp.com
+[fluid]: https://www.fluidui.com

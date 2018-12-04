@@ -1,0 +1,73 @@
+---
+layout: post
+title:  Week 11
+date:   2018-11-08
+description: # (optional)
+img: survey.jpg
+tags: [Weekly, Survey]
+author: jonathon
+---
+<p align="center"><b><font size="6">Survey Building</font></b></p>
+
+
+Our goal this week was to construct a survey that would accurately gauge interest for our app and its features. This felt like a step backwards for us: how did we forget to validate our idea first?
+
+Furthermore, we immediately ran into problems — in *content*, *translation*, and *promotion*.
+
+<br>
+
+**Content**
+
+Gaining relevant insight from a survey required us to ask the right questions. Our instructor [Burcin][burcin], a veteran of survey construction for her research, informed us of a few pitfalls to avoid when designing an effective survey:
+
+1. *No leading questions*. Don't try to make assumptions about users' opinions, e.g. "What information do you want in a welcome guide?", without knowing first whether the user even wants a welcome guide in the first place.
+
+2. *Avoid text entries*. There are two aspects to this. The first is simply that text is very difficult to analyze, especially if the answer is vague, short, or confusing. There is no way to follow up on an answer. The second part is that you (the surveyor) have to manually put all survey responses into a database to do any analysis. The process is time consuming and better spent elsewhere.
+
+3. *Add suboptions*. These are the "If yes..." or "If other..." questions that will only display to the user if they selected a certain option. The goal is to maximize information gain from targeted individuals, while streamlining the survey process for other users.
+
+<br>
+
+**Translation**
+
+To maximize our response rate, we needed to translate the survey across multiple languages. Fortunately, our team's combined language set spanned English, French, and Farsi. Unfortunately, we soon discovered how time consuming it was to translate — thanks to the "lost in translation" concept. For instance, "Check all that apply" did not have an equivalent in Farsi. It took us forever to come up with a suitable alternative: "You can select more than one". Relatedly, it was impossible to gauge whether our phrasing was idiosyncratically American, potentially confusing our survey users.
+
+Furthermore, none of us spoke Arabic, forcing us to find suitable (and willing) translators. One option we discussed was to recruit professors in the Middle Eastern Studies department. That quickly fell apart when we experienced how time-consuming translation was. We eventually settled on crowdsourcing from Omar's many connections to help.
+
+<br>
+
+**Promotion**
+
+A survey is only as statistically significant as its responses. Unfortunately, surveys are notoriously difficult to incentivize taking simply "out of the goodness of your heart". My estimate is that we would be lucky if 1 out of 1000 views translated into a response. This is to say nothing about getting the survey into the hands of our target population. For that, we would need to enlist the help of our localized global partners.
+
+<br><br>
+
+
+**Rising to the Challenge**
+
+Thankfully, everything fell into place. Burcin provided constructive feedback on our survey syntax and formatting; we successfully converted our survey into all four languages; and Maryam (one of our global partners) was kind enough to pass out our survey and conduct interviews within Moria.
+
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/week11/survey-comments.png" style="width: auto; max-width: 800px; max-height: 600px;">
+<figcaption align="center"><i>Figure 1: Survey ideation with comments.</i></figcaption>
+</figure>
+<br>
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/week11/survey-language.png" style="width: auto; max-width: 800px; max-height: 600px;">
+<figcaption align="center"><i>Figure 2: Different language options (selected: Arabic).</i></figcaption>
+</figure>
+<br>
+<figure align="center">
+<img src="{{site.baseurl}}/assets/img/week11/survey.gif" style="width: auto; max-width: 800px; max-height: 600px;">
+<figcaption align="center"><i>Figure 3: Our Qualtrics survey.</i></figcaption>
+</figure>
+<br>
+
+
+To see our finalized survey, click [here][survey].
+
+<br>
+
+<!-- Links -->
+[burcin]: https://viterbi.usc.edu/directory/faculty/Becerik-Gerber/Burcin
+[survey]: https://usc.qualtrics.com/jfe/form/SV_9vt3ixP0oTji0gl

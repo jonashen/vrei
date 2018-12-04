@@ -12,7 +12,7 @@ author: jonathon
 
 <figure align="center">
 <img src="{{site.baseurl}}/assets/img/week10/features.png" style="width: auto; max-width: 700px; max-height: 600px;">
-<figcaption align="center"><i>Figure 1: Our list of potential features (yellow borders symbolize personal favorites).</i></figcaption>
+<figcaption align="center"><i>Figure 1: Our list of potential features (yellow borders symbolize team favorites).</i></figcaption>
 </figure>
 <br>
 

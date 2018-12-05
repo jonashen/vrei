@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes
+title: Weeks 1-8 Notes
 date: 2018-10-18
 description: # (optional)
 img: tents.jpg # (optional)

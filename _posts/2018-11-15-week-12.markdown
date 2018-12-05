@@ -1,0 +1,32 @@
+---
+layout: post
+title:  Week 12
+date:   2018-11-15
+description: # (optional)
+img: swot.png
+tags: [Weekly, Research, SWOT, Excel]
+author: jonathon
+---
+<p align="center"><b><font size="6">Market Research</font></b></p>
+
+We felt that a detailed analysis of all resources currenly operating in the refugee space was in order. The reason is twofold - not only to identify holes currently not being addressed by any resource, but also how to improve upon where others have fallen short.
+
+To that end, we separated the market analysis into the following categories: **Name**, **How to Access**, **Type**, **Contact Info**, **Location**, **Summary**, and a detailed **SWOT analysis**.
+
+<br>
+To see our finalized survey, click [here][research].
+<br>
+
+<br>
+
+**Post-Analysis**
+
+After the form was completely filled, it was rather easy to draw specific conclusions from it. There were three main takeaways:
+1. Resources mostly targeted a single country
+2. Many resources were not maintained in the long run
+3. No resource targeted life within camps/displaced locations.
+
+Arguably the most important takeaway, the third point really solidified in our minds the need to build Safar. None of the 23 resources we analyzed were even remotely relevant to life within camps. All of them were developed based on the assumption that the refugees had already made it out or were simply seeking asylum information. Validating the need for our product was an overwhelming sigh of relief, and reinvigorated our cause and sense of responsibility.
+
+<!-- Links -->
+[research]: {{site.baseurl}}/assets/img/week12/market-research.pdf
